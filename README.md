@@ -1,6 +1,6 @@
 <p align="center">
   <div style="border: 4px solid #8A2BE2; padding: 12px; border-radius: 25px; background-color: #2a1a5e; box-shadow: 0 0 15px rgba(138, 43, 226, 0.8);">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bb86fc&size=24&center=true&vCenter=true&width=500&height=40&lines=Hello,+world!+Eu+sou+Rose+Ellen+🌍🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=bb86fc&size=24&center=true&vCenter=true&width=500&height=40&lines= Hello,+world!+Eu+sou+Rose+Ellen+🌍🚀" />
   </div>
 </p>
 
