@@ -19,6 +19,9 @@
 </p>
 
 ---
+## 📫 **Entre em Contato**
+📧 **Email:** rosellen.favacho@gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/rose-ellen-favacho-sf2003
 
 ## 📊 **Minhas Estatísticas no GitHub**
 <p align="center">
@@ -28,8 +31,5 @@
 
 ---
 
-## 📫 **Entre em Contato**
-📧 **Email:** rosellen.favacho@gmail.com  
-💼 **LinkedIn:** www.linkedin.com/in/rose-ellen-favacho-sf2003
 
 
