@@ -1,46 +1,8 @@
-<p align="center">
-  <div style="border: 4px solid #8A2BE2; padding: 12px; border-radius: 25px; background-color: #2a1a5e; box-shadow: 0 0 15px rgba(138, 43, 226, 0.8);">
-    <img src="https://readme-typing-svg.herokuapp.com?color=bb86fc&size=24&center=true&vCenter=true&width=500&height=40&lines=Hello,+world!🌍🚀" />
-  </div>
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rose-ellenf/rose-ellenf/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rose-ellenf/rose-ellenf/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rose-ellenf/rose-ellenf/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
----
-
-## 👾 **Sobre mim**
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**.  
-💜 **Apaixonada por tecnologia e inovação**.  
-🚀 **Iniciando minha jornada na programação e animada para aprender e compartilhar meus projetos**.  
-
----
-
-## 🛠 **Tecnologias e Ferramentas**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
----
-## 📫 **Entre em Contato**
-
-<p align="center">
-  <a href="mailto:rosellen.favacho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rose-ellen-favacho-sf2003">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/roseecoding">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-
-## 📊 **Minhas Estatísticas no GitHub**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rose-ellenf&show_icons=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9&icon_color=bb86fc&border_color=8a2be2&border_radius=10" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rose-ellenf&theme=tokyonight&background=0d1117&border=8a2be2&fire=bb86fc&ring=8a2be2&currStreakLabel=bb86fc" />
-</p>
-
----
-
-
+###
 
